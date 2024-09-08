@@ -1,5 +1,4 @@
 import json
-from re import A
 import sys
 from datetime import datetime
 import shutil
